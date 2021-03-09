@@ -1,0 +1,54 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=latex 2019.5.8)  6 MAR 2021 20:44
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**h
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/h.tex
+LaTeX2e <2018-12-01>
+
+! The file name provided could not be found.
+Use `<enter>' to continue processing,
+`S' to scroll future errors
+`R' to run without stopping,
+`Q' to run quietly,
+or `X' to terminate TeX
+! .
+l.45 \errmessage{}
+                  
+? s
+OK, entering \scrollmode...
+)
+*
+(Please type a command or say `\end')
+*\end
+
+*
+Runaway argument?
+! Paragraph ended before \end was complete.
+<to be read again> 
+                   \par 
+<*> 
+    
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+(Please type a command or say `\end')
+*\end
+
+*
+! Emergency stop.
+<*> \end
+        
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 6 strings out of 492617
+ 254 string characters out of 6129508
+ 57266 words of memory out of 5000000
+ 4025 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 5i,0n,1p,81b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.

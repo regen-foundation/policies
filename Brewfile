@@ -1,0 +1,7 @@
+tap "homebrew/bundle"
+tap "homebrew/core"
+brew "jq"
+brew "node"
+brew "pkg-config"
+brew "rust"
+brew "tectonic"

@@ -7,8 +7,13 @@ As a blockchain entity, we're committed to transparency. We want our tokenholder
 In this repository, you can find:
 - By-Laws
 - Conflict-of-Interest Policy
-- Treasury Management Policy
 - Financial Management Policy
-- Custody and Nominee Agreement
+- Delaware Formation Papers
+- Grant Responsibility Expenditure Agreement
+- Custody & Nominee Agreement
+- Token Ownership and Trading Policy
+- Treasury Policy
 
 The Custody and Nominee Agreement is show here as a template, for the security of these wallets and nominees.
+
+The Grant Responsibility Expenditure Agreement is a template for EnDAOment recipients.

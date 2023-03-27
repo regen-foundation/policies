@@ -13,6 +13,8 @@ In this repository, you can find:
 - Custody & Nominee Agreement
 - Token Ownership and Trading Policy
 - Treasury Policy
+- Tax Filings (Form 990)
+- Annual Reports
 
 The Custody and Nominee Agreement is show here as a template, for the security of these wallets and nominees.
 

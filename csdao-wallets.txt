@@ -1,0 +1,7 @@
+Address, Year Issued, Recipient
+regen1tqcpntpntmpzm6d7xdfp07m85zgf6xhwzd06du 2022 Commons Stack
+regen12dd63skcexf66cxjyt667g7xanfvg2h6k86f4t 2022 OpenTEAM
+regen1lrl0tfqzzscrgqqwnz0wuxjrqvwhnz0zes9lpj 2022 Kulshan Carbon Trust
+regen1azrv0p8e7r6r54gw7240872xxz6lhpdjggg5xw 2022 Terran Collective
+regen1nllhd62lcl44nqc6jkqaeke08v8eg4quy5kamp 2023 Smart Agro
+

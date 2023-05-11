@@ -15,6 +15,7 @@ In this repository, you can find:
 - Treasury Policy
 - Tax Filings (Form 990)
 - Annual Reports
+- Community Staking DAO Recipient List
 
 The Custody and Nominee Agreement is show here as a template, for the security of these wallets and nominees.
 

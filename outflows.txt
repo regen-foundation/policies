@@ -1,10 +1,10 @@
-Address                                      Year Issued Type                       Recipient                   Amount
-regen1tqcpntpntmpzm6d7xdfp07m85zgf6xhwzd06du 2022        CSDAO                      Commons Stack               500,000
-regen12dd63skcexf66cxjyt667g7xanfvg2h6k86f4t 2022        CSDAO                      OpenTEAM                    500,000
-regen1lrl0tfqzzscrgqqwnz0wuxjrqvwhnz0zes9lpj 2022        CSDAO                      Kulshan Carbon Trust        500,000
-regen1azrv0p8e7r6r54gw7240872xxz6lhpdjggg5xw 2022        CSDAO                      Terran Collective           500,000
-regen10x9plm48yvrgz4l6t7dwa34y5gm4z4smvj9086 2023        Program-Related Investment Cerulean                    3,925,000
-regen1nllhd62lcl44nqc6jkqaeke08v8eg4quy5kamp 2023        CSDAO                      Smart Agro                  500,000
-regen1kzwg3y8munvvck7vfuf09807zpv92xa8y4xt90 2023        Grant                      Kado                        204,816
-regen1h4567e9ymddrhemr67t0gxs38vyk6jupd0u9ff 2024        CSDAO                      Ekonavi                     500,000
-regen1s8lx3j2r5qkw2nvmygw3ur6ehtwuqd0xkkw5d0 2024        CSDAO                      Foundation for Regeneration 500,000
+Address                                      Year Issued Type                       Recipient                   Amount    Block Height
+regen1tqcpntpntmpzm6d7xdfp07m85zgf6xhwzd06du 2022        CSDAO                      Commons Stack               500,000   4,463,183
+regen12dd63skcexf66cxjyt667g7xanfvg2h6k86f4t 2022        CSDAO                      OpenTEAM                    500,000   4,463,183
+regen1lrl0tfqzzscrgqqwnz0wuxjrqvwhnz0zes9lpj 2022        CSDAO                      Kulshan Carbon Trust        500,000   7,664,031
+regen1azrv0p8e7r6r54gw7240872xxz6lhpdjggg5xw 2022        CSDAO                      Terran Collective           500,000   8,429,966
+regen10x9plm48yvrgz4l6t7dwa34y5gm4z4smvj9086 2023        Program-Related Investment Cerulean                    3,925,000 9,548,544
+regen1nllhd62lcl44nqc6jkqaeke08v8eg4quy5kamp 2023        CSDAO                      Smart Agro                  500,000   10,551,395
+regen1kzwg3y8munvvck7vfuf09807zpv92xa8y4xt90 2023        Grant                      Kado                        204,816   12,224,661
+regen1h4567e9ymddrhemr67t0gxs38vyk6jupd0u9ff 2024        CSDAO                      Ekonavi                     500,000   14,580,157
+regen1s8lx3j2r5qkw2nvmygw3ur6ehtwuqd0xkkw5d0 2024        CSDAO                      Foundation for Regeneration 500,000   14,580,157

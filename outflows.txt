@@ -8,3 +8,6 @@ regen1nllhd62lcl44nqc6jkqaeke08v8eg4quy5kamp 2023        CSDAO                  
 regen1kzwg3y8munvvck7vfuf09807zpv92xa8y4xt90 2023        Grant                      Kado                        204,816   12,224,661
 regen1h4567e9ymddrhemr67t0gxs38vyk6jupd0u9ff 2024        CSDAO                      Ekonavi                     500,000   14,580,157
 regen1s8lx3j2r5qkw2nvmygw3ur6ehtwuqd0xkkw5d0 2024        CSDAO                      Foundation for Regeneration 500,000   14,580,157
+regen12luw6nxk0pclv5ztl3j0p6049p2gl5k9g09ydd 2024        CSDAO                      Chatafisha                  500,000   15,281,398
+regen1wexza7kxc8qktxqcwrt65anwuxjw8pg0p3m5z6 2024        CSDAO                      Earthist                    500,000   15,281,398
+regen1m2h33yd44j4l4sa9guz3armte5f7tekc8kl3z7 2024        CSDAO                      Shamba                      500,000   15,281,398

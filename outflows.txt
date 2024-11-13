@@ -1,4 +1,4 @@
-Address                                      Year Issued Type                       Recipient                   Amount    Block Height
+ADDRESS                                      YEAR ISSUED TYPE                       RECIPIENT                   AMOUNT    BLOCK HEIGHT
 regen1tqcpntpntmpzm6d7xdfp07m85zgf6xhwzd06du 2022        CSDAO                      Commons Stack               500,000   4,463,183
 regen12dd63skcexf66cxjyt667g7xanfvg2h6k86f4t 2022        CSDAO                      OpenTEAM                    500,000   4,463,183
 regen1lrl0tfqzzscrgqqwnz0wuxjrqvwhnz0zes9lpj 2022        CSDAO                      Kulshan Carbon Trust        500,000   7,664,031
@@ -11,3 +11,7 @@ regen1s8lx3j2r5qkw2nvmygw3ur6ehtwuqd0xkkw5d0 2024        CSDAO                  
 regen12luw6nxk0pclv5ztl3j0p6049p2gl5k9g09ydd 2024        CSDAO                      Chatafisha                  500,000   15,281,398
 regen1wexza7kxc8qktxqcwrt65anwuxjw8pg0p3m5z6 2024        CSDAO                      Earthist                    500,000   15,281,398
 regen1m2h33yd44j4l4sa9guz3armte5f7tekc8kl3z7 2024        CSDAO                      Shamba                      500,000   15,281,398
+regen1q7r269h5rhduumradp4z030a0v2ay9vc5a2xw8 2024        CSDAO                      EcoToken                    500,000   16,016,715
+regen1ftk9vezlnp3tz98q4vehw68h0xrxdvcxv9kdwa 2024        CSDAO                      Canopy Collective           500,000   18,245,216
+regen100f4uxz7wu8zmw0ycyw9nhkmgdh0tqctk2dzlv 2024        Grant                      Liliane Mavridara           50,000    18,245,216
+regen1q7r269h5rhduumradp4z030a0v2ay9vc5a2xw8 2024        Grant                      EcoToken                    2,437,500 18,245,216

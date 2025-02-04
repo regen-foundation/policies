@@ -18,3 +18,6 @@ regen1q7r269h5rhduumradp4z030a0v2ay9vc5a2xw8 2024        Grant                  
 regen1q7r269h5rhduumradp4z030a0v2ay9vc5a2xw8 2024        Loan                       EcoToken                    475,737   19,067,370
 regen1q7r269h5rhduumradp4z030a0v2ay9vc5a2xw8 2024        Grant                      EcoToken                    274,263   19,067,370
 regen1l0rj7ysqx4urpz32v0eatveulnyp5raqghyv7v 2024        Loan                       Nudibranch Capital          1,341,700 19,420,714
+regen1q7r269h5rhduumradp4z030a0v2ay9vc5a2xw8 2025        Grant                      EcoToken                    1,188,237 19,761,256
+regen1l0rj7ysqx4urpz32v0eatveulnyp5raqghyv7v 2025        Loan                       Nudibranch Capital          350,565   19,761,256
+regen1mqtnspwqmuqpwera2p24j0gy0v5ajz9k4drd3m 2025        Grant                      Testnet Incentives          50,265    19,926,440

@@ -1,27 +1,27 @@
-ADDRESS                                      YEAR ISSUED TYPE                       RECIPIENT                   AMOUNT    BLOCK HEIGHT
-regen1tqcpntpntmpzm6d7xdfp07m85zgf6xhwzd06du 2022        CSDAO                      Commons Stack               500,000   4,463,183
-regen12dd63skcexf66cxjyt667g7xanfvg2h6k86f4t 2022        CSDAO                      OpenTEAM                    500,000   4,463,183
-regen1lrl0tfqzzscrgqqwnz0wuxjrqvwhnz0zes9lpj 2022        CSDAO                      Kulshan Carbon Trust        500,000   7,664,031
-regen1azrv0p8e7r6r54gw7240872xxz6lhpdjggg5xw 2022        CSDAO                      Terran Collective           500,000   8,429,966
-regen10x9plm48yvrgz4l6t7dwa34y5gm4z4smvj9086 2023        Program-Related Investment Cerulean                    3,925,000 9,548,544
-regen1nllhd62lcl44nqc6jkqaeke08v8eg4quy5kamp 2023        CSDAO                      Smart Agro                  500,000   10,551,395
-regen1kzwg3y8munvvck7vfuf09807zpv92xa8y4xt90 2023        Grant                      Kado                        204,816   12,224,661
-regen1h4567e9ymddrhemr67t0gxs38vyk6jupd0u9ff 2024        CSDAO                      Ekonavi                     500,000   14,580,157
-regen1s8lx3j2r5qkw2nvmygw3ur6ehtwuqd0xkkw5d0 2024        CSDAO                      Foundation for Regeneration 500,000   14,580,157
-regen12luw6nxk0pclv5ztl3j0p6049p2gl5k9g09ydd 2024        CSDAO                      Chatafisha                  500,000   15,281,398
-regen1wexza7kxc8qktxqcwrt65anwuxjw8pg0p3m5z6 2024        CSDAO                      Earthist                    500,000   15,281,398
-regen1m2h33yd44j4l4sa9guz3armte5f7tekc8kl3z7 2024        CSDAO                      Shamba                      500,000   15,281,398
-regen1q7r269h5rhduumradp4z030a0v2ay9vc5a2xw8 2024        CSDAO                      EcoToken                    500,000   16,016,715
-regen1ftk9vezlnp3tz98q4vehw68h0xrxdvcxv9kdwa 2024        CSDAO                      Stitching Raddis            500,000   18,245,216
-regen100f4uxz7wu8zmw0ycyw9nhkmgdh0tqctk2dzlv 2024        Grant                      Liliane Mavridara           50,000    18,245,216
-regen1q7r269h5rhduumradp4z030a0v2ay9vc5a2xw8 2024        Grant                      EcoToken                    2,437,500 18,245,216
-regen1q7r269h5rhduumradp4z030a0v2ay9vc5a2xw8 2024        Loan                       EcoToken                    475,737   19,067,370
-regen1q7r269h5rhduumradp4z030a0v2ay9vc5a2xw8 2024        Grant                      EcoToken                    274,263   19,067,370
-regen1l0rj7ysqx4urpz32v0eatveulnyp5raqghyv7v 2024        Loan                       Nudibranch Capital          1,341,700 19,420,714
-regen1q7r269h5rhduumradp4z030a0v2ay9vc5a2xw8 2025        Grant                      EcoToken                    1,188,237 19,761,256
-regen1l0rj7ysqx4urpz32v0eatveulnyp5raqghyv7v 2025        Loan                       Nudibranch Capital          350,565   19,761,256
-regen1mqtnspwqmuqpwera2p24j0gy0v5ajz9k4drd3m 2025        Grant                      Testnet Incentives          50,265    19,926,440
-regen1q7r269h5rhduumradp4z030a0v2ay9vc5a2xw8 2025        Grant                      EcoToken                    1,950,000 20,478,118
-regen13htuznz7xtar7xrgwgww3lrcefw774p27xzgel 2025        Grant                      Tokenomics DAO              265,000   22,165,419
-0x2eC174e9f8418afdB8EAcC2FE574F7EA7Ac7Ba1d   2025        Listing Fee                Coinstore                   700,000   23,735,805
-regen146ltjemuzf404sgytm4ay3u3eguulat9smzp8g 2025        Token Sale                 CPX Ventures                2,542,373 24,655,559
+ADDRESS                                      YEAR DESCRIPTION                RECIPIENT                   AMOUNT    BLOCK HEIGHT
+regen1tqcpntpntmpzm6d7xdfp07m85zgf6xhwzd06du 2022 CSDAO                      Commons Stack               500,000   4,463,183
+regen12dd63skcexf66cxjyt667g7xanfvg2h6k86f4t 2022 CSDAO                      OpenTEAM                    500,000   4,463,183
+regen1lrl0tfqzzscrgqqwnz0wuxjrqvwhnz0zes9lpj 2022 CSDAO                      Kulshan Carbon Trust        500,000   7,664,031
+regen1azrv0p8e7r6r54gw7240872xxz6lhpdjggg5xw 2022 CSDAO                      Terran Collective           500,000   8,429,966
+regen10x9plm48yvrgz4l6t7dwa34y5gm4z4smvj9086 2023 Program-Related Investment Cerulean                    3,925,000 9,548,544
+regen1nllhd62lcl44nqc6jkqaeke08v8eg4quy5kamp 2023 CSDAO                      Smart Agro                  500,000   10,551,395
+regen1kzwg3y8munvvck7vfuf09807zpv92xa8y4xt90 2023 Grant                      Kado                        204,816   12,224,661
+regen1h4567e9ymddrhemr67t0gxs38vyk6jupd0u9ff 2024 CSDAO                      Ekonavi                     500,000   14,580,157
+regen1s8lx3j2r5qkw2nvmygw3ur6ehtwuqd0xkkw5d0 2024 CSDAO                      Foundation for Regeneration 500,000   14,580,157
+regen12luw6nxk0pclv5ztl3j0p6049p2gl5k9g09ydd 2024 CSDAO                      Chatafisha                  500,000   15,281,398
+regen1wexza7kxc8qktxqcwrt65anwuxjw8pg0p3m5z6 2024 CSDAO                      Earthist                    500,000   15,281,398
+regen1m2h33yd44j4l4sa9guz3armte5f7tekc8kl3z7 2024 CSDAO                      Shamba                      500,000   15,281,398
+regen1q7r269h5rhduumradp4z030a0v2ay9vc5a2xw8 2024 CSDAO                      EcoToken                    500,000   16,016,715
+regen1ftk9vezlnp3tz98q4vehw68h0xrxdvcxv9kdwa 2024 CSDAO                      Stitching Raddis            500,000   18,245,216
+regen100f4uxz7wu8zmw0ycyw9nhkmgdh0tqctk2dzlv 2024 Grant                      Liliane Mavridara           50,000    18,245,216
+regen1q7r269h5rhduumradp4z030a0v2ay9vc5a2xw8 2024 Grant                      EcoToken                    2,437,500 18,245,216
+regen1q7r269h5rhduumradp4z030a0v2ay9vc5a2xw8 2024 Loan                       EcoToken                    475,737   19,067,370
+regen1q7r269h5rhduumradp4z030a0v2ay9vc5a2xw8 2024 Grant                      EcoToken                    274,263   19,067,370
+regen1l0rj7ysqx4urpz32v0eatveulnyp5raqghyv7v 2024 Loan                       Nudibranch Capital          1,341,700 19,420,714
+regen1q7r269h5rhduumradp4z030a0v2ay9vc5a2xw8 2025 Grant                      EcoToken                    1,188,237 19,761,256
+regen1l0rj7ysqx4urpz32v0eatveulnyp5raqghyv7v 2025 Loan                       Nudibranch Capital          350,565   19,761,256
+regen1mqtnspwqmuqpwera2p24j0gy0v5ajz9k4drd3m 2025 Grant                      Testnet Incentives          50,265    19,926,440
+regen1q7r269h5rhduumradp4z030a0v2ay9vc5a2xw8 2025 Grant                      EcoToken                    1,950,000 20,478,118
+regen13htuznz7xtar7xrgwgww3lrcefw774p27xzgel 2025 Grant                      Tokenomics DAO              265,000   22,165,419
+0x2eC174e9f8418afdB8EAcC2FE574F7EA7Ac7Ba1d   2025 Listing Fee                Coinstore                   700,000   23,735,805
+regen146ltjemuzf404sgytm4ay3u3eguulat9smzp8g 2025 Program-Related Investment CPX Ventures                1,250,000 24,655,559
